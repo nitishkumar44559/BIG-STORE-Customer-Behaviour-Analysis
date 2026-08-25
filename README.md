@@ -2,7 +2,7 @@
 A data analytics dashboard exploring customer purchasing behavior, seasonal sales trends, product category performance, and the impact of subscriptions on retail revenue.
 
 Tools used: POWER BI FOR DASHBOARD 
-PYTHON FOR DATA CLEANING
+/PYTHON FOR DATA CLEANING
 
 <img width="1055" height="680" alt="87834" src="https://github.com/user-attachments/assets/75cbb428-679c-4586-af08-1d6985fc0fa9" />
 
